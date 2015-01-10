@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">AadhaarHack</string>
+    <string name="phone">Phone</string>
+    <string name="gas">Gas</string>
+    <string name="bank">Bank</string>
+    <string name="app_want_a">Want a </string>
+    <string name="app_choose_a">Choose a</string>
+    <string name="setup_phone">Carrier</string>
+    <string name="setup_gas">Brand</string>
+    <string name="setup_bank">Bank</string>
+    <string name="app_question">\?</string>
+    <string name="app_ok">Ok</string>
+    <string name="app_skip">Skip</string>
+
+</resources>
